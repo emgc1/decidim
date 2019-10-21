@@ -28,7 +28,7 @@ ipaddress==1.0.19
 jmespath==0.9.3
 kiwisolver==1.0.1
 matplotlib==2.2.2
-nltk==3.3
+nltk==3.4.5
 numpy==1.14.2
 pandas==0.22.0
 paramiko==2.4.2
