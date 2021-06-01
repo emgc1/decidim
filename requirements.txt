@@ -50,4 +50,4 @@ smart-open==1.5.7
 stop-words==2015.2.23.1
 storage==0.0.4.3
 subprocess32==3.5.1
-urllib3==1.22
+urllib3==1.26.5
